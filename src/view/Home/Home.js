@@ -13,7 +13,6 @@ const Home = () => {
 				padding: '25px',
 			}}
 		>
-			<h1>Home</h1>
 			<ItemListContainer />
 		</div>
 	);
