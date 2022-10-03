@@ -11,15 +11,16 @@ const About = () => {
                 padding: '25px',
             }}
         >
-            <h1>About</h1>
+            <h1>Sobre Nosotros</h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, iusto
-                distinctio explicabo neque voluptatem tenetur earum nisi eaque
-                consequuntur. Molestiae necessitatibus adipisci tempore rem, qui soluta
-                quod ipsa laudantium ex!
+            Lorem ipsum dolor sit amet. Et ipsa asperiores et magni omnis et quaerat dolorum
+            aut velit voluptatem id rerum fuga non aperiam omnis At repudiandae officia. Non 
+            autem perferendis eum tempora perferendis ab velit excepturi in animi repellat est
+            laborum eaque non galisum sapiente et maxime dignissimos. Qui dolorem porro est
+            modi sunt et sapiente delectus ut animi?
+                
             </p>
         </div>
-    )
-}
+    );};
 
 export default About;

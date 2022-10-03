@@ -20,9 +20,7 @@ const ItemDetail = ({ data }) => {
 			<img src={data.images} alt="Object" />
 			<p>Price: $ {data.price}</p>
 			<p>Description: {data.descripcion} </p>
-			{
-				goToCart ? <Link to="/cart"><h2>Ir al carrito</h2></Link> : <ItemCount initial={1} stock={15} onAdd={onAdd} />
-			}
+			{goToCart ? <Link to="/cart"><h2>Ir al carrito</h2></Link> : <ItemCount initial={1} stock={15} onAdd={onAdd} />}
 		</div>
 			
 	);

@@ -13,6 +13,8 @@ const Contact = () => {
 		>
 			<h1>Contact</h1>
 			<p>
+				Micaonti@gmail.com
+				av. Rivadavia 1234
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, iusto
 				distinctio explicabo neque voluptatem tenetur earum nisi eaque
 				consequuntur. Molestiae necessitatibus adipisci tempore rem, qui soluta
